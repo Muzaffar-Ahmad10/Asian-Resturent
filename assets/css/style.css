@@ -20,8 +20,9 @@ h1, h2 {
     color: #252525;
 }
 #logo {
-    float: left;
+    float:left;
     font-size: 280%;
+    margin-left: 6%;
 }
  /* Navigation Links */
 
@@ -50,13 +51,20 @@ h1, h2 {
     background-color: darkgray;
 }
  
-  /* resturant-image */
+  /* hero-image cover text */
 
 #hero-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
+
+    position: relative;
 }  
+
+#cover-text, #cover-text h2 {
+    color: black;
+}
+
 #hero-image {
     height: 600px;
     width: 100%;
@@ -74,8 +82,26 @@ animation-fill-mode: forwards;
         transform: scale(1);
     }
     to{
-        transform: scale(1.4);
+        transform: scale(1.2);
     }
 }
+#cover-text {
+    font-size: 130%;
+    font-family: lato, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
 
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(241, 109, 107, .7);
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
+}
  
