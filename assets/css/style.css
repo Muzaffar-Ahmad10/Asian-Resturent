@@ -108,12 +108,14 @@ animation-fill-mode: forwards;
 #resturent-ethos{
     height: 600px;
     
+    
 
 }    
 #left-about {
     padding-top: 30px;
     width: 33%;
     float:left;
+    background-color:burlywood;
     
 }
 #right-about {
@@ -121,17 +123,20 @@ animation-fill-mode: forwards;
     width: 33%;
     float: right;
     margin-right: 0;
+    background-color:burlywood;
     
 }
 #center-about {
     width: 33%;
     margin: 0 auto;
+    background-color:burlywood;
     
 }
 hr {
     border-top: 1px solid #3a3a3a;
     width: 100%;
     margin: 5px 0;
+    background-color:burlywood;
 }
 .left-about-heading {
     width: 60%;
@@ -139,6 +144,7 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+    background-color:burlywood;
 }
 .right-about-heading {
     width: 60%;
@@ -146,6 +152,7 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+    background-color:burlywood;
 }
 .right-about-heading h2 {
     text-align: right;
@@ -162,12 +169,14 @@ hr {
 
 #times&location {
 height: 20%;
+
 }
 .location {
     width: 30%;
     float: left;
     clear: both;
     margin-left: 15%;
+    
     
 }
 .timing {
@@ -177,6 +186,7 @@ height: 20%;
     margin-right: 5%;
     margin-bottom: 0%;
     
+    
 }
  /* footer*/
 
@@ -184,10 +194,16 @@ height: 20%;
     height: 80px;
     
 }
+#socialmedia {
+    text-align: left;
+    margin-left: 5%;
+    
+
+}
 
 .social-networks {
     text-align: center;
-    background-color: lightgray;
+    background-color:burlywood;
 }
 
 .social-networks > li {
@@ -200,5 +216,4 @@ height: 20%;
     margin: 1%;
     padding: 5%;
     color:black;
-    
 }
