@@ -107,6 +107,7 @@ animation-fill-mode: forwards;
 
 #resturent-ethos{
     height: 600px;
+    
 
 }    
 #left-about {
@@ -119,6 +120,7 @@ animation-fill-mode: forwards;
     padding-top: 30px;
     width: 33%;
     float: right;
+    margin-right: 0;
     
 }
 #center-about {
@@ -158,28 +160,45 @@ hr {
 
 /* event times */
 
-#times div {
-text-align: left;
-margin-left: 15%;
+#times&location {
+height: 20%;
 }
-
+.location {
+    width: 30%;
+    float: left;
+    clear: both;
+    margin-left: 15%;
+    
+}
+.timing {
+    width: 30%;
+    float: right;
+    clear: both;
+    margin-right: 5%;
+    margin-bottom: 0%;
+    
+}
  /* footer*/
 
  footer {
-    height: 150px;
+    height: 80px;
+    
 }
 
 .social-networks {
     text-align: center;
+    background-color: lightgray;
 }
 
 .social-networks > li {
     display: inline;
+    
 }
 
 .social-networks i {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #3a3a3a;
+    color:black;
+    
 }
