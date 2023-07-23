@@ -148,13 +148,38 @@ hr {
 .right-about-heading h2 {
     text-align: right;
 }
+
 #welcome {
     text-align: center;
     margin: 20px;
     font-size: 280%;
     background-color: lightgray;
 }
+
+/* event times */
+
 #times div {
 text-align: left;
 margin-left: 15%;
+}
+
+ /* footer*/
+
+ footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
 }
