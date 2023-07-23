@@ -59,11 +59,11 @@ h1, h2 {
     overflow: hidden;
 
     position: relative;
+}
+#cover-text, #cover-text h2 {
+    color: #fff;
 }  
 
-#cover-text, #cover-text h2 {
-    color: black;
-}
 
 #hero-image {
     height: 600px;
@@ -100,7 +100,7 @@ animation-fill-mode: forwards;
     background-color: rgba(241, 109, 107, .7);
 
     bottom: 30px;
-    right: 150px;
+    right: 250px;
 
     position: absolute;
 }
