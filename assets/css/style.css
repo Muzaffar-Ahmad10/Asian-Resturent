@@ -44,11 +44,11 @@ h1, h2 {
     color: inherit;
 }
 #menu a:hover {
-    background-color: darkgray;
+    background-color:gray;
 }
 .active {
     
-    background-color: darkgray;
+    background-color:grey;
 }
  
   /* hero-image cover text */
@@ -97,11 +97,34 @@ animation-fill-mode: forwards;
     padding-top: 40px;
     padding-left: 10px;
 
-    background-color: rgba(241, 109, 107, .7);
 
-    bottom: 30px;
-    right: 250px;
+    top: 30px;
+    right: 200px;
 
     position: absolute;
 }
- 
+    /* Resturant ethos*/
+
+#resturent-ethos{
+    height: 600px;
+
+}    
+#left-about {
+    padding-top: 30px;
+    width: 33%;
+    float:left;
+    background-color: blue;
+}
+#right-about {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: silver;
+}
+#center-about {
+    width: 33%;
+    margin: 0 auto;
+    background-color: green;
+}
+
+
