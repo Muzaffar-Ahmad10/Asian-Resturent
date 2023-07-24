@@ -247,3 +247,22 @@ hr {
  #photos > img {
     width: 100%;
 }
+/* contect us */
+
+#contect {
+    text-align: center;
+}
+.find {
+    text-align: left;
+    margin-left: 8%;
+    clear: both;
+    
+    
+}
+.find-about-heading h2 {
+    text-align: right;
+}
+
+.find-about-heading p {
+    text-align: right;
+}
