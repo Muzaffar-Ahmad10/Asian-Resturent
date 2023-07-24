@@ -255,14 +255,5 @@ hr {
 .find {
     text-align: left;
     margin-left: 8%;
-    clear: both;
-    
-    
-}
-.find-about-heading h2 {
-    text-align: right;
 }
 
-.find-about-heading p {
-    text-align: right;
-}
