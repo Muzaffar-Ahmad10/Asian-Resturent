@@ -222,6 +222,7 @@ hr {
 /* Menu Page*/
  #headind1 {
     text-align: center;
+    color:gray;
     
  }
  #detail {
@@ -229,5 +230,6 @@ hr {
     margin-left: 9%;
     margin-top: 4%;
     font-size:larger;
-    
+    margin-bottom: 5%;
+    color:gray;
  }
