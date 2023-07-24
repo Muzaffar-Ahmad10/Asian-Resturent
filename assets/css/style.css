@@ -165,29 +165,9 @@ hr {
     background-color: lightgray;
 }
 
-/* event times */
 
-#times&location {
-height: 20%;
 
-}
-.location {
-    width: 30%;
-    float: left;
-    clear: both;
-    margin-left: 15%;
-    
-    
-}
-.timing {
-    width: 30%;
-    float: right;
-    clear: both;
-    margin-right: 5%;
-    margin-bottom: 0%;
-    
-    
-}
+
  /* footer*/
 
  footer {
@@ -196,7 +176,7 @@ height: 20%;
 }
 #socialmedia {
     text-align: left;
-    margin-left: 5%;
+    margin-left: 0%;
     
 
 }
@@ -209,6 +189,8 @@ height: 20%;
 .social-networks > li {
     display: inline;
     
+    
+    
 }
 
 .social-networks i {
@@ -216,4 +198,22 @@ height: 20%;
     margin: 1%;
     padding: 5%;
     color:black;
+    
+}
+
+/* location & times */
+.location {
+    width: 30%;
+    float: left;
+    clear: both;
+    margin-left: 1%;  
+}
+.timing {
+    width: 30%;
+    float: right;
+    clear: both;
+    margin-right: 1%;
+    margin-bottom: 0%;
+    
+    
 }
