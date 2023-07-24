@@ -250,26 +250,23 @@ hr {
 /* contect us */
 
 
-.find {
-    text-align: left;
-    margin-left: 8%;
-}
+
 /*Form section*/
 
 .form-section {
     clear: left;
     background-size: cover;
     background-position: center;
-    height: 900px;
+    height: 990px;
 }
 
  .signup-form {
      margin:150px 10% 0 0;
      color:black;
      background-color :lightgray ;
-     max-width :400px;
+     max-width :700px;
      position:absolute;
-     left :10%;
+     left :25%;
      padding:30px;
      
  }
