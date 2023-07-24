@@ -115,7 +115,7 @@ animation-fill-mode: forwards;
     padding-top: 30px;
     width: 33%;
     float:left;
-    background-color:burlywood;
+    background-color:lightgrey;
     
 }
 #right-about {
@@ -123,20 +123,20 @@ animation-fill-mode: forwards;
     width: 33%;
     float: right;
     margin-right: 0;
-    background-color:burlywood;
+    background-color:lightgray;
     
 }
 #center-about {
     width: 33%;
     margin: 0 auto;
-    background-color:burlywood;
+    background-color:lightgray;
     
 }
 hr {
     border-top: 1px solid #3a3a3a;
     width: 100%;
     margin: 5px 0;
-    background-color:burlywood;
+    background-color:lightgray;
 }
 .left-about-heading {
     width: 60%;
@@ -144,7 +144,7 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
-    background-color:burlywood;
+    background-color:lightgray;
 }
 .right-about-heading {
     width: 60%;
@@ -152,7 +152,7 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
-    background-color:burlywood;
+    background-color:lightgray;
 }
 .right-about-heading h2 {
     text-align: right;
@@ -183,7 +183,7 @@ hr {
 
 .social-networks {
     text-align: center;
-    background-color:burlywood;
+    background-color:lightgray;
 }
 
 .social-networks > li {
