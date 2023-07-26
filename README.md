@@ -15,12 +15,24 @@ customer satisfaction is our first perority, we are very happy to take comments 
 * It allows users to easily navigate the pages
 * its Completely responsive, 
 
-#
-
-
- 
+# Eat & Drinks
+  <img src="assets/media/Screenshot for section 3.png" alt="this page present our main information ">
  
 
 
+ 
+# Footer 
+<img src="assets/media/Screenshot for footer.png" alt=" in footer we mention our addres number and social media links">
 
+
+# Menu
+<img src="assets/media/Screenshot for menu page.png" alt="we use HTML for menu">
+
+
+# gallery
+<img src="assets/media/Screenshot for gallery page.png" alt="we add some food pictures ">
+
+
+# Contect us 
+<img src="assets/media/Screenshot for contect us.png" alt="its our feed back page ">
 
