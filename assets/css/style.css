@@ -48,26 +48,28 @@ h1, h2 {
 }
 .active {
     
-    background-color:grey;
+    background-color:gray;
 }
  
   /* hero-image cover text */
 
 #hero-outer {
     height: 600px;
-    width: 100%;
+    width: 95%;
     overflow: hidden;
-
-
+    position: relative;
 }
+
 #cover-text, #cover-text h2 {
-    color: #fff;
-}  
+    color: white;
+}
+
+
 
 
 #hero-image {
     height: 600px;
-    width: 100%;
+    width: 110%;
     background: url("../images/resturant-image.jpg") no-repeat center center;
 }
 #cover-text {
@@ -79,15 +81,16 @@ h1, h2 {
     width: 300px;
     height: 250px;
 
-    padding-top: 40px;
-    padding-left: 10px;
+    padding-top: 60px;
+    padding-left: 1px;
 
 
     top: 30px;
     right: 200px;
 
-    
+    position: absolute;
 }
+
     /* Resturant ethos*/
 
 #resturent-ethos{
