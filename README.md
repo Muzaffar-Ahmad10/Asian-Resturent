@@ -13,10 +13,16 @@ customer satisfaction is our first perority, we are very happy to take comments 
 * Featured on all four pages
 * The navbar is fully responsive on smaller screens and includes links to the Homepage, Menu page, Gallery and Contact us page
 * It allows users to easily navigate the pages
-* its Completely responsive, 
+* its Completely responsive,
+* Logo and navigation bars are active, if you are anywhere just click on the logo of the resturant and then you will get back on the home page  
+
 
 # Eat & Drinks
   <img src="assets/media/Screenshot for section 3.png" alt="this page present our main information ">
+
+  ## info
+  * This section is for general purposes use, we inform our special discount and offers throughout this section to our customers, 
+
  
 
 
