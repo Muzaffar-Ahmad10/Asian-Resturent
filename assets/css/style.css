@@ -58,7 +58,7 @@ h1, h2 {
     width: 100%;
     overflow: hidden;
 
-    position: relative;
+
 }
 #cover-text, #cover-text h2 {
     color: #fff;
@@ -86,7 +86,7 @@ h1, h2 {
     top: 30px;
     right: 200px;
 
-    position: absolute;
+    
 }
     /* Resturant ethos*/
 
