@@ -14,7 +14,8 @@ customer satisfaction is our first perority, we are very happy to take comments 
 * The navbar is fully responsive on smaller screens and includes links to the Homepage, Menu page, Gallery and Contact us page
 * It allows users to easily navigate the pages
 * its Completely responsive, 
-* imotion style copy from love running project
+
+#
 
 
  
