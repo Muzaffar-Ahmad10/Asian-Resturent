@@ -4,7 +4,7 @@ Our staff is very cooperative and polite with Customers, we always reply to cust
 customer satisfaction is our first perority, we are very happy to take comments and suggestions from customers, then we can achieve our satisfaction goals, 
 
 
-  <img src="assets/media/Responsive pic.png" alt="its responsive pic">
+  <img src="assets/media/responsiv pic for web.png" alt="its responsive pic">
 
 # Features
  ## Logo and Navigation Bar
@@ -22,6 +22,9 @@ customer satisfaction is our first perority, we are very happy to take comments 
 
   ## info
   * This section is for general purposes use, we inform our special discount and offers throughout this section to our customers, 
+  * Customers can see upcoming events or any news about the restaurant,
+  * Customers can see what meal-deal is available for the upcoming Weeekend, 
+
 
  
 
