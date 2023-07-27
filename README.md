@@ -91,3 +91,4 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 
 * It's a way Customer can send us feedback and suggestions.
 * We clearly mention here our location, contact number and E-mail Addres.
+* Our promise to protect your personal data. 
