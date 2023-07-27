@@ -88,4 +88,6 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 <img src="assets/media/Screenshot for contect us.png" alt="its our feed back page ">
 
 ## Contect form 
-* 
+
+* It's a way Customer can send us feedback and suggestions.
+* We clearly mention here our location, contact number and E-mail Addres.
