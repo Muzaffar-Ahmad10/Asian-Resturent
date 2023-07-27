@@ -60,7 +60,7 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 <img src="assets/media/Screenshot for footer.png" alt=" in footer we mention our addres number and social media links">
  
 * Attatched with all four pages
-* Exist of three sections, Timing & information, Opening and Clossing times, Social media links (Facebook) (Instagram) and (Twitter), 
+* Exist of three sections, Timing & Location, Opening and Clossing times, Social media links (Facebook) (Instagram) and (Twitter), 
 
 
 
