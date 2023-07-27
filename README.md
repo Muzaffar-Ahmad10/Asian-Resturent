@@ -67,6 +67,14 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 # Menu
 <img src="assets/media/Screenshot for menu page.png" alt="we use HTML for menu">
 
+* We have six section in our Menu
+1. Pizza
+2. Rice 
+3. Curry 
+4. Sweets
+5. Ice Cream
+6. Drinks
+
 
 # gallery
 <img src="assets/media/Screenshot for gallery page.png" alt="we add some food pictures ">
