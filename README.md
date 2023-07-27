@@ -78,6 +78,9 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 
 # gallery
 <img src="assets/media/Screenshot for gallery page.png" alt="we add some food pictures ">
+ 
+ ## Some Sample Food Images
+ *  
 
 
 # Contect us 
