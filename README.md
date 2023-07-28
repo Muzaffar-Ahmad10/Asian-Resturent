@@ -3,6 +3,9 @@
 Our staff is very cooperative and polite with Customers, we always reply to customers on time and make them happy, 
 customer satisfaction is our first perority, we are very happy to take comments and suggestions from customers, then we can achieve our satisfaction goals, 
 
+**Responsive**
+ : This web page is completely responsive with Mobile, Tab, Laptop, and Screen,
+
 
   <img src="assets/media/responsiv pic for web.png" alt="its responsive pic">
 
@@ -128,6 +131,8 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
  ## Unfixed bugs 
  
  * I got some errors and warnings in html files due to that I am unable show Lighthouse result, even my website is completely showing good results. 
+
+
  
 # Deployment
 
