@@ -120,7 +120,8 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 ## Bugs 
 **Solved bugs**
  
- * In the Beging my css file did not show the result then I was found the problem with link command code and fixed it,
- * In the Gallery section the images were not fixed correctly then I watched again love running project (Gallery section) and after that it was fixed by me correctly. 
+ * In the Beging my css file did not show the result then I was found the problem with link command code and fixed it with the help of google, 
+ * In the Gallery section the images were not fixed correctly then I watched again love running project (Gallery section) and 
+   after that it was fixed by me correctly. 
  * I was not abel to fix social media links, The Love running project help me to fix social media links,
-
+ * 
