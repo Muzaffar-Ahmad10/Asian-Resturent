@@ -33,6 +33,16 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 * A Gallery with images that shows the common feel of the restaurant,
 * A Contact page with form  and information about the resturant, 
 
+# Technologies Used
+## Languages
+* HTML
+* CSS
+## Frameworks & Tools
+
+* GitHub
+* Gitpod
+* Google Fonts
+* Font Awsome
 
 
 # Features
@@ -46,16 +56,7 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 * its totaly responsive,
 * Logo and navigation bars are active, if you are anywhere just click on the logo of the resturant and then you will get back on the home page  
 
-# Technologies Used
-## Languages
-* HTML
-* CSS
-## Frameworks & Tools
 
-* GitHub
-* Gitpod
-* Google Fonts
-* Font Awsome
 
 
 
