@@ -106,11 +106,21 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
   - About us 
 
 ## Accessibility 
-### HTML
+**HTML**
 
 *  The W3C HTML Validation service was used to test the all four pages code, the validator shows some errors and some warnings associated to using root variables.
-### Css 
+
+ **Css** 
 * The W3C Css Validation Service was used to test the Css style code of the website. All code got pass with no errors no warnings to show. 
 
-### Accessibility
+**Accessibility**
 * I confirmed that the colors and fonts that chosen by me is completely readable. because of some HTML errors I cannot take screenshot, 
+
+
+| **Bug**  | **Fix** |
+| -----------   | ----------- |
+ | Home page link stays highlighted when visiting another page  | Change active atribute to the correct page |
+| The user can submit a contact form input without a message | Add required attribute to message input field |
+| Navbar divides into two rows on xs screen size | Add a media query to remove the right margin of the logo in the navbar on xs screen |
+| Email overflows on xs screen size | Add a media query that makes the divs spread to 100% width on xs sreens to froce the content onto a seperate line |
+| When viewed on tablets, the contact page has whitespace after the footer | Set min-height for body to 100vh |
