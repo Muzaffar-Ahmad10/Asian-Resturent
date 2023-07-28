@@ -150,4 +150,10 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
  ## Code
   * 404 page was build with the help of Tutor Assistance, 
   * Love Running project was a big supporter, 
-  
+  * Header Navigations Home, Menu, Gallery, Contect Us, Examples from Love Running Projects, 
+
+## Media 
+  * pictures are taken from google images, 
+
+# Confession
+*  
