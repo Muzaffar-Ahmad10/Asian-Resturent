@@ -136,5 +136,6 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 1. In the GitHub repository navigate to the Settings tab
 2. On the left hand menu select Pages
 3. For the source select Branch: master
-4. After the webpage refreshes automaticaly you will see a ribbon on the top saying, your site is live at
-[link for site] (https://muzaffar-ahmad10.github.io/Asian-Resturent/)
+4. After the webpage refreshes automaticaly you will see a ribbon on the top saying, your site is live at,
+
+(https://muzaffar-ahmad10.github.io/Asian-Resturent/)
