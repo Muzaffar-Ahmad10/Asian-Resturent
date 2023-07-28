@@ -33,11 +33,11 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 * A Gallery with images that shows the common feel of the restaurant,
 * A Contact page with form  and information about the resturant, 
 
-# Technologies Used
-## Languages
+## Technologies Used
+### Languages
 * HTML
 * CSS
-## Frameworks & Tools
+### Frameworks & Tools
 
 * GitHub
 * Gitpod
