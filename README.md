@@ -144,3 +144,10 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 4. After the webpage refreshes automaticaly you will see a ribbon on the top saying, your site is live at,
 
 (https://muzaffar-ahmad10.github.io/Asian-Resturent/)
+
+# Credits
+ 
+ ## Code
+  * 404 page was build with the help of Tutor Assistance, 
+  * Love Running project was a big supporter, 
+  
