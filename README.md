@@ -53,9 +53,6 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 
 
  
-
-
- 
 # Footer 
 <img src="assets/media/Screenshot for footer.png" alt=" in footer we mention our addres number and social media links">
  
@@ -109,4 +106,8 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
   - About us 
 
 ## Accessibility 
-* 
+### HTML
+
+*  The W3C HTML Validation service was used to test the all four pages code, the validator shows some errors and some warnings associated to using root variables.
+### Css 
+* The W3C Css Validation Service was used to test the Css style code of the website. All code got pass with no errors no warnings to show. 
