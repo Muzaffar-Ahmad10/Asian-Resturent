@@ -34,6 +34,7 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 * A Contact page with form  and information about the resturant, 
 
 
+
 # Features
 
  ## Logo and Navigation Bar
@@ -44,6 +45,18 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 * It allows customers to easily navigate the pages
 * its totaly responsive,
 * Logo and navigation bars are active, if you are anywhere just click on the logo of the resturant and then you will get back on the home page  
+
+# Technologies Used
+## Languages
+* HTML
+* CSS
+## Frameworks & Tools
+
+* GitHub
+* Gitpod
+* Google Fonts
+* Font Awsome
+
 
 
 # Eat & Drinks
