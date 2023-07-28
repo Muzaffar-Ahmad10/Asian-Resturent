@@ -158,4 +158,5 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 # Confession
 **I would like to say Thank,** 
  * My mentor Mo Shami for his suggestions, feedback and Motivational support.
- 
+ * To slake community, Slake People are very friendly and helpful for any problems, 
+ * To tutor assistance, it's very fast way to find out solutions, with the help of tutor assistance we can save our time.
