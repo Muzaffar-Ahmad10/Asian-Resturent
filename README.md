@@ -111,3 +111,6 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 *  The W3C HTML Validation service was used to test the all four pages code, the validator shows some errors and some warnings associated to using root variables.
 ### Css 
 * The W3C Css Validation Service was used to test the Css style code of the website. All code got pass with no errors no warnings to show. 
+
+### Accessibility
+* I confirmed that the colors and fonts that chosen by me is completely readable. because of some HTML errors I cannot take screenshot, 
