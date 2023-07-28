@@ -28,10 +28,10 @@ customer satisfaction is our first perority, we are very happy to take comments 
 ## Structure
 The page structur is perfectly  user friendly, and easy to find way. On arriving to the website the user see a similar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. The website consists of four separate pages,
 
-* A homepage with a sections for information and weekend special menu,
-* A menu page with prices,
-* A gallery with images that shows the common feel of the restaurant,
-* A contact page with form  and information about the resturant, 
+* A Homepage with a sections for information and weekend special menu,
+* A Menu page with prices,
+* A Gallery with images that shows the common feel of the restaurant,
+* A Contact page with form  and information about the resturant, 
 
 
 # Features
