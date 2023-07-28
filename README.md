@@ -124,4 +124,8 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
  * In the Gallery section the images were not fixed correctly then I watched again love running project (Gallery section) and 
    after that it was fixed by me correctly. 
  * I was not abel to fix social media links, The Love running project help me to fix social media links,
+ 
+ ## Unfixed bugs 
+ 
+ * I got some errors and warnings in html files due to that I am unable show Lighthouse result, even my website is completely showing good results. 
  * 
