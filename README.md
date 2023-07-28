@@ -117,10 +117,9 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 * I confirmed that the colors and fonts that chosen by me is completely readable. because of some HTML errors I cannot take screenshot, 
 
 
-| **Bug**  | **Fix** |
-| -----------   | ----------- |
- | Home page link stays highlighted when visiting another page  | Change active atribute to the correct page |
-| The user can submit a contact form input without a message | Add required attribute to message input field |
-| Navbar divides into two rows on xs screen size | Add a media query to remove the right margin of the logo in the navbar on xs screen |
-| Email overflows on xs screen size | Add a media query that makes the divs spread to 100% width on xs sreens to froce the content onto a seperate line |
-| When viewed on tablets, the contact page has whitespace after the footer | Set min-height for body to 100vh |
+## Bugs 
+**Solved bugs**
+ 
+ * In the Beging my css file did not show the result then I was found the problem with <link> code and fixed it,
+ * In the Gallery section the images were not fixed correctly then I watched again love running project (Gallery section) and after that it was fixed by me correctly. 
+  
