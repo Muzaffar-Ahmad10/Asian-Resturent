@@ -92,3 +92,21 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 * It's a way Customer can send us feedback and suggestions.
 * We clearly mention here our location, contact number and E-mail Addres.
 * Our promise to protect your personal data. 
+
+# Attestation, 
+
+## Css Attestation
+* The W3C Css Validation Service was used to test the Css style code of the website. All code got pass with no errors no warnings to show.
+- style.css
+- Whole page
+<img src="assets/media/Css pass code .png" alt="its our feed back page ">
+
+## HTML Attestation 
+ * The W3C HTML Validation service was used to test the all four pages code, the validator shows some errors and some warnings associated to using root variables.
+  - Home 
+  - Menu
+  - Gallery 
+  - About us 
+
+## Accessibility 
+* 
