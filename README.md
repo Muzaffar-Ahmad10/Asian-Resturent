@@ -46,7 +46,7 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 # Eat & Drinks
   <img src="assets/media/Screenshot for section 3.png" alt="this page present our main information ">
 
-  ## info
+  ## Info
   * This section is for general purposes use, we inform our special discount and offers throughout this section to our customers, 
   * Customers can see upcoming events or any news about the restaurant,
   * Customers can see what offer is available for the coming Weeekend, 
