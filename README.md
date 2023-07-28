@@ -153,7 +153,9 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
   * Header Navigations Home, Menu, Gallery, Contect Us, Examples from Love Running Projects, 
 
 ## Media 
-  * pictures are taken from google images, 
+  * Pictures are taken from google images, 
 
 # Confession
-*  
+**I would like to say Thank,** 
+ * My mentor Mo Shami for his suggestions, feedback and Motivational support.
+ 
