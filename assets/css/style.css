@@ -10,9 +10,7 @@ body {
     font-weight: 300;
     color: #3a3a3a;
 }
-
-/* Heading and Logo */
-
+ /* Heading and Logo */
 h1, h2 {
     font-family: lora, sans-serif;
     text-transform: uppercase;
@@ -25,14 +23,12 @@ h1, h2 {
     margin-left: 6%;
 }
  /* Navigation Links */
-
  #menu {
     font-size: 110%;
     letter-spacing: 4px;
 }
 #menu, #logo {
     line-height: 75px;
-    
 }
 #menu li {
     float: right;
@@ -50,7 +46,6 @@ h1, h2 {
     
     background-color:gray;
 }
- 
   /* hero-image cover text */
 
 #hero-outer {
@@ -59,14 +54,9 @@ h1, h2 {
     overflow: hidden;
     position: relative;
 }
-
 #cover-text, #cover-text h2 {
     color: white;
 }
-
-
-
-
 #hero-image {
     height: 600px;
     width: 110%;
@@ -90,35 +80,26 @@ h1, h2 {
 
     position: absolute;
 }
-
     /* Resturant ethos*/
 
 #resturent-ethos{
     height: 600px;
     
-    
-
 }    
 #left-about {
     padding-top: 30px;
     width: 33%;
     float:left;
-    
-    
 }
 #right-about {
     padding-top: 30px;
     width: 33%;
     float: right;
     margin-right: 0;
-    
-    
 }
 #center-about {
     width: 33%;
     margin: 0 auto;
-    
-    
 }
 hr {
     border-top: 1px solid #3a3a3a;
@@ -149,12 +130,8 @@ hr {
 #welcome {
     text-align: center;
     margin: 20px;
-    font-size: 280%;
-    
+    font-size: 280%;    
 }
-
-
-
 
  /* footer*/
 
@@ -166,20 +143,14 @@ hr {
 #socialmedia {
     text-align: left;
     margin-left: 0%;
-    
-
 }
-
 .social-networks {
     text-align: center;
     background-color:lightgray;
 }
 
 .social-networks > li {
-    display: inline;
-    
-    
-    
+    display: inline;    
 }
 
 .social-networks i {
@@ -192,7 +163,7 @@ hr {
 
 /* location & times */
 .location {
-    width: 30%;
+    width: 100%;
     float: left;
     clear: both;
     margin-left: 1%;  
@@ -211,9 +182,7 @@ hr {
 
  #headind1 {
     text-align: center;
-    color:gray;
-    
-    
+    color:gray; 
  }
  #detail {
     text-align: left;
@@ -236,8 +205,6 @@ hr {
     width: 100%;
 }
 /* contect us */
-
-
 
 /*Form section*/
 
@@ -274,8 +241,6 @@ hr {
      
  }
  .text-input:hover { border-color:grey;
- 
-     
  }
 .join-button{
     background-color:#fafafa;
@@ -321,8 +286,6 @@ hr {
         float: left;
         padding: 0;
     }
-    
- 
 }
 /* For medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
@@ -337,13 +300,11 @@ hr {
     #cover-text {
         left: 0;
     }
-
     #resturent-ethos {
         width: 90%;
         height: 1200px;
         margin: 0 auto;
     }
-
     .left-about-heading, .right-about-heading {
         width: inherit;
     }
@@ -352,7 +313,6 @@ hr {
         width: 100%;
         text-align: center;
     }
-
     .left-about-heading p, .right-about-heading p {
         text-align: center;
         padding: 0 20px;
