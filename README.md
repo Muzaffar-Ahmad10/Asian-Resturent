@@ -9,8 +9,6 @@ customer satisfaction is our first perority, we are very happy to take comments 
 
   <img src="assets/docs/responsiv-pic-for-web.png" alt="its responsive pic">
 
-
-
 ## Project Aim
 
 * Find the Resturant with good food menu and nice atmosphere,
@@ -37,8 +35,6 @@ customer satisfaction is our first perority, we are very happy to take comments 
  2. I would like to get to know the restaurant serveries from respected customers. 
  3. I want the users to be able to contact us. 
 
-
-
 ## Structure
 The page structur is perfectly  user friendly, and easy to find way. On arriving to the website the user see a similar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. The website consists of four separate pages,
 
@@ -58,7 +54,6 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 * Google Fonts
 * Font Awsome
 
-
 # Features
 
  ## Logo and Navigation Bar
@@ -70,10 +65,6 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 * its totaly responsive,
 * Logo and navigation bars are active, if you are anywhere just click on the logo of the resturant and then you will get back on the home page  
 
-
-
-
-
 # Eat & Drinks
   <img src="assets/docs/news-section.image.png" alt="this page present our main information ">
 
@@ -82,15 +73,11 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
   * Customers can see upcoming events or any news about the restaurant,
   * Customers can see what offer is available for the coming Weeekend, 
 
-
- 
 # Footer 
 <img src="assets/docs/footer-image.png" alt=" in footer we mention our addres number and social media links">
  
 * Attatched with all four pages
 * Exist of three sections, Timing & Location, Opening and Clossing times, Social media links (Facebook) (Instagram) and (Twitter), 
-
-
 
 # Menu
 <img src="assets/docs/menu-page.png" alt="we use HTML for menu">
@@ -103,14 +90,12 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 5. Ice Cream
 6. Drinks
 
-
 # gallery
 <img src="assets/docs/ gallery-page.png" alt="we add some food pictures ">
  
  ## Some Sample Food Images
 
  * We add some sample food images,the food we mention in our menu.  
-
 
 # Contect us 
 <img src="assets/docs/ contectus-png" alt="its our feed back page ">
@@ -147,7 +132,6 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 **Accessibility**
 * I confirmed that the colors and fonts that chosen by me is completely readable. because of some HTML errors I cannot take screenshot, 
 
-
 ## Bugs 
 **Solved bugs**
  
@@ -159,8 +143,6 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
  ## Unfixed bugs 
  
  * I got some errors and warnings in html files due to that I am unable show Lighthouse result, even my website is completely showing good results. 
-
-
  
 # Deployment
 
