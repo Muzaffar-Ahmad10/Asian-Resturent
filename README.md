@@ -7,7 +7,7 @@ customer satisfaction is our first perority, we are very happy to take comments 
  : This web page is completely responsive with Mobile, Tab, Laptop, and Screen,
 
 
-  <img src="assets/media/responsiv pic for web.png" alt="its responsive pic">
+  <img src="assets/docs/responsiv pic for web.png" alt="its responsive pic">
 
 
 
@@ -48,7 +48,7 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 # Features
 
  ## Logo and Navigation Bar
- <img src="assets/media/logo pic.png" alt="logo and pages">
+ <img src="assets/docs/logo pic.png" alt="logo and pages">
 
 * Featured on all four pages
 * The navbar is fully responsive on smaller screens and includes links to the Homepage, Menu page, Gallery and Contact us page
@@ -61,7 +61,7 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 
 
 # Eat & Drinks
-  <img src="assets/media/Screenshot for section 3.png" alt="this page present our main information ">
+  <img src="assets/docs/Screenshot for section 3.png" alt="this page present our main information ">
 
   ## Info
   * This section is for general purposes use, we inform our special discount and offers throughout this section to our customers, 
@@ -71,7 +71,7 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 
  
 # Footer 
-<img src="assets/media/Screenshot for footer.png" alt=" in footer we mention our addres number and social media links">
+<img src="assets/docs/Screenshot for footer.png" alt=" in footer we mention our addres number and social media links">
  
 * Attatched with all four pages
 * Exist of three sections, Timing & Location, Opening and Clossing times, Social media links (Facebook) (Instagram) and (Twitter), 
@@ -79,7 +79,7 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 
 
 # Menu
-<img src="assets/media/Screenshot for menu page.png" alt="we use HTML for menu">
+<img src="assets/docs/Screenshot for menu page.png" alt="we use HTML for menu">
 
 * We have six section in our Menu
 1. Pizza
@@ -91,7 +91,7 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 
 
 # gallery
-<img src="assets/media/Screenshot for gallery page.png" alt="we add some food pictures ">
+<img src="assets/docs/Screenshot for gallery page.png" alt="we add some food pictures ">
  
  ## Some Sample Food Images
 
@@ -99,7 +99,7 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 
 
 # Contect us 
-<img src="assets/media/Screenshot for contect us.png" alt="its our feed back page ">
+<img src="assets/docs/Screenshot for contect us.png" alt="its our feed back page ">
 
 ## Contect form 
 
@@ -113,7 +113,7 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 * The W3C Css Validation Service was used to test the Css style code of the website. All code got pass with no errors no warnings to show.
 - style.css
 - Whole page
-<img src="assets/media/Css pass code .png" alt="its our feed back page ">
+<img src="assets/docs/Css pass code .png" alt="its our feed back page ">
 
 ## HTML Attestation 
  * The W3C HTML Validation service was used to test the all four pages code, the validator shows some errors and some warnings associated to using root variables.
