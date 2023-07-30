@@ -157,7 +157,8 @@ The page structur is perfectly  user friendly, and easy to find way. On arriving
 3. For the source select Branch: master
 4. After the webpage refreshes automaticaly you will see a ribbon on the top saying, your site is live at,
 
-(https://muzaffar-ahmad10.github.io/Asian-Resturent/)
+
+https://muzaffar-ahmad10.github.io/Asian-Resturent/
 
 # Credits
  
