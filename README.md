@@ -25,6 +25,20 @@ customer satisfaction is our first perority, we are very happy to take comments 
 * Provide a way for customers to contact the resturant for booking.
 * Provide useful information about the resturant to customers.
 
+## Customer Expectations
+
+*  People looking for a place for food,
+*  People looking to order take away, 
+*  Groups of people finding for a place to carter a event, 
+*  Small wedding parties 
+
+## Resturant Owner
+ 1. I would like to share news about upcoming events orand changes in opening & Closing times
+ 2. I would like to get to know the restaurant serveries from respected customers. 
+ 3. I want the users to be able to contact us. 
+
+
+
 ## Structure
 The page structur is perfectly  user friendly, and easy to find way. On arriving to the website the user see a similar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. The website consists of four separate pages,
 
