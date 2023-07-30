@@ -40,11 +40,11 @@ h1, h2 {
     color: inherit;
 }
 #menu a:hover {
-    background-color:blue;
+    background-color:grey;
 }
 .active {
     
-    background-color:blue;
+    background-color:grey;
 }
   /* hero-image cover text */
 
