@@ -60,7 +60,7 @@ h1, h2 {
 #hero-image {
     height: 600px;
     width: 110%;
-    background: url("../images/resturant-image.jpg") no-repeat center center;
+    background: url("../css/images/resturant-image.jpg") no-repeat center center;
 }
 #cover-text {
     font-size: 130%;
@@ -137,6 +137,7 @@ hr {
 
  footer {
     height: 80px;
+    
     
 }
 /*Social media links*/
